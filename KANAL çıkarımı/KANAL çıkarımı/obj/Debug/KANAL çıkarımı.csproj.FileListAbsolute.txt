@@ -1,0 +1,9 @@
+c:\users\sümeyye\documents\visual studio 2015\Projects\KANAL çıkarımı\KANAL çıkarımı\bin\Debug\KANAL çıkarımı.exe.config
+c:\users\sümeyye\documents\visual studio 2015\Projects\KANAL çıkarımı\KANAL çıkarımı\bin\Debug\KANAL çıkarımı.exe
+c:\users\sümeyye\documents\visual studio 2015\Projects\KANAL çıkarımı\KANAL çıkarımı\bin\Debug\KANAL çıkarımı.pdb
+c:\users\sümeyye\documents\visual studio 2015\Projects\KANAL çıkarımı\KANAL çıkarımı\obj\Debug\KANAL çıkarımı.csprojResolveAssemblyReference.cache
+c:\users\sümeyye\documents\visual studio 2015\Projects\KANAL çıkarımı\KANAL çıkarımı\obj\Debug\KANAL_çıkarımı.Form1.resources
+c:\users\sümeyye\documents\visual studio 2015\Projects\KANAL çıkarımı\KANAL çıkarımı\obj\Debug\KANAL_çıkarımı.Properties.Resources.resources
+c:\users\sümeyye\documents\visual studio 2015\Projects\KANAL çıkarımı\KANAL çıkarımı\obj\Debug\KANAL çıkarımı.csproj.GenerateResource.Cache
+c:\users\sümeyye\documents\visual studio 2015\Projects\KANAL çıkarımı\KANAL çıkarımı\obj\Debug\KANAL çıkarımı.exe
+c:\users\sümeyye\documents\visual studio 2015\Projects\KANAL çıkarımı\KANAL çıkarımı\obj\Debug\KANAL çıkarımı.pdb
